@@ -21,3 +21,4 @@ else:
     else:
         breakfast = "ничего не будет: разгрузочный день"
 print("Сегодня на завтрак", breakfast)
+#hhgghghgh
