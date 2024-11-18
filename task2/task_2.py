@@ -16,4 +16,4 @@ cities = [
 ]
 unique_cities = set(cities)
 for city in unique_cities:
-    print('- ' + city)
+    print('-' + city)
