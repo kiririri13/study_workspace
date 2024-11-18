@@ -17,4 +17,3 @@ all_cities = {
 used_cities = {'Калуга', 'Абакан' , 'Новосибирск'}
 
 print_valid_cities(all_cities, used_cities)
-#hhhhh
