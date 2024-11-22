@@ -9,5 +9,4 @@ print(len(dimas_songs))
 # Ниже напишите код, который построчно напечатает
 # все любимые песни Сони.
 sonya_songs = favorite_songs['Соня']
-for song in sonya_songs:
-    print(song)
+for song in sonya_songs: print(song)
